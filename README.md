@@ -1,4 +1,4 @@
 # mynew-repo
 this is my first repo
 <br/>
-Author- Chandan Mhapatra
+Author- Chandan Mahapatra
